@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+canvas {
+    width: fit-content;
+    height: fit-content;
+    border: 1px solid black;
+}
